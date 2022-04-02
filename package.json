@@ -4,6 +4,9 @@
   "description": "PDF Services Node.js SDK sample",
   "author": "Adobe",
   "license": "MIT",
+  "scripts": {
+    "dev":"node src/extractpdf/extract-text-info-from-pdf.js"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:adobe/pdfservices-node-sdk-samples.git"
